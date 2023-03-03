@@ -1,2 +1,2 @@
 # Secrets
-Jus for practicing authentication
+Just for practicing authentication
